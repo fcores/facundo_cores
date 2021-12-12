@@ -31,6 +31,8 @@ micursor=miconexcion.cursor()
 
 micursor.execute("DELETE FROM OTROSPRODUCTOS WHERE ID=2") ## Borrar una fila de la base de datos
 
+#####HOLAAAAAA
+
 miconexcion.commit() ##Ejecutar el ingreso de informacion
 
 
